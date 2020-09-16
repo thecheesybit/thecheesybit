@@ -1,7 +1,7 @@
 ### Hi there, I'm Ayush - aka [El Professor][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://thecheesybit.co)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fthecheesybit&screen_name=thecheesybit)
+[![Website](https://img.shields.io/website?label=thecheesybit.co&style=for-the-badge&url=https%3A%2F%2Fthecheesybit.co)](https://thecheesybit.co)
+[![Twitter Follow](https://img.shields.io/twitter/follow/thecheesybit?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fthecheesybit&screen_name=thecheesybit)
 
 ## I'm a Coder, Gamer, Developer, and Teacher!
 
