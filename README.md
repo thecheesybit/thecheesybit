@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love to Listen Music and play Games
 
 ### Spotify Playing 🎧
-[<img src="https://novatorem-git-master.thecheesybit.vercel.app/api/spotify-playing" alt="Professor Spotify Playing" width="350" />](https://open.spotify.com/user/gf9enwowvd77chqu1w3rkpgnf)
+[![Spotify](https://novatorem-git-master.thecheesybit.vercel.app/api/spotify)](https://open.spotify.com/user/gf9enwowvd77chqu1w3rkpgnf)
 
 ### Connect with me:
 
