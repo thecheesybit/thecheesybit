@@ -1,6 +1,6 @@
 ### Hi there, I'm Ayush - aka [El Professor](https://steamcommunity.com/id/militantace/) 👋
 
-[![Website](https://img.shields.io/website?label=thecheesybit.co&style=for-the-badge&url=https%3A%2F%2Fthecheesybit.co)](https://thecheesybit.co)
+[![Website](https://img.shields.io/website?label=thecheesybit.in&style=for-the-badge&url=https%3A%2F%2Fthecheesybit.co)](https://thecheesybit.in)
 [![Twitter Follow](https://img.shields.io/twitter/follow/thecheesybit?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fthecheesybit&screen_name=thecheesybit)
 
 ## I'm a Coder, Gamer, Developer, and Teacher!
@@ -68,7 +68,7 @@
 
 </details>
 
-[website]: https://thecheesybit.co
+[website]: https://thecheesybit.in
 [twitter]: https://twitter.com/thecheesybit
 [youtube]: https://youtube.com/channel/UC7xfOi5KvbDVizIETV9tBig
 [instagram]: https://instagram.com/thecheesybit
