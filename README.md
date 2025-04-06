@@ -1,4 +1,4 @@
-### Hi there, I'm Ayush - aka [El Professor](https://steamcommunity.com/id/militantace/) 👋
+### Hi there, I'm Nishtha - aka [El Professor](https://steamcommunity.com/id/militantace/) 👋
 
 [![Website](https://img.shields.io/website?label=thecheesybit.netlify.app&style=for-the-badge&url=https%3A%2F%2Fthecheesybit.netlify.app)](https://thecheesybit.netlify.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/thecheesybit?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fthecheesybit&screen_name=thecheesybit)
