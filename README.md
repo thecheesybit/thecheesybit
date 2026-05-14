@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:12d640&height=220&section=header&text=Ayush%20Kumar&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20Engineer%20%7C%20AWS%20Certified&descSize=18&descAlignY=55&descColor=12d640" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:12d640&height=220&section=header&text=Ayush%20Kumar&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=M.Tech%20%40%20IIT%20Patna%20%7C%20AI%20Engineer%20%7C%20AWS%20Certified&descSize=18&descAlignY=55&descColor=12d640" width="100%" />
 
 <!-- Typing SVG -->
 <a href="https://cheesybit.netlify.app">
@@ -22,7 +22,7 @@
 
 ## 🧑‍💻 About
 
-B.Tech CSE (AI & ML) from VIT · CGPA 8.09 · Building full-stack web apps, Flutter mobile apps, ML pipelines, and cloud-native systems.
+M.Tech in AI & Data Science @ **IIT Patna** · CGPA **9.84** · B.Tech CSE (AI & ML) from VIT (8.09) · Building full-stack web apps, Flutter mobile apps, ML pipelines, and cloud-native systems.
 
 **Quick highlights →**
 - 🏆 Won [The GoldenHack 3.0](https://devpost.com/software/dropbase-tcc) — Technical Case Challenge, Canada · [Watch pitch →](https://youtu.be/d6LNn1qJBgk)
