@@ -12,7 +12,7 @@
 
 <!-- Action Buttons -->
 <a href="https://drive.google.com/file/d/1dYSvpDX1zP5IKeDQA_HmPKgcAchlEUT0/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Download_CV-12d640?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
-<a href="https://cheesybit.netlify.app"><img src="https://img.shields.io/badge/Portfolio-cheesybit.netlify.app-0d1117?style=for-the-badge&logo=netlify&logoColor=12d640" /></a>
+<a href="https://cheesybit-v2.netlify.app"><img src="https://img.shields.io/badge/Portfolio-cheesybit.netlify.app-0d1117?style=for-the-badge&logo=netlify&logoColor=12d640" /></a>
 <a href="https://linkedin.com/in/cheesybit"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:ak.aimldev@gmail.com"><img src="https://img.shields.io/badge/Email-ak.aimldev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
