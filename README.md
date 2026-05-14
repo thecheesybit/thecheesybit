@@ -45,21 +45,21 @@ fun_fact: "I turned a spark of curiosity into a firestorm of innovation 🔥"
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/🥇-GoldenHack_3.0_Winner-gold?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/%F0%9F%A5%87_GoldenHack_3.0-Winner-FFD700?style=for-the-badge&labelColor=1a1a2e" /><br/>
       <sub>Technical Case Challenge — Oct 2021</sub>
     </td>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/📄-Published_Researcher-blue?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/%F0%9F%93%84_Published-Researcher-4A90D9?style=for-the-badge&labelColor=1a1a2e" /><br/>
       <sub><a href="https://link.springer.com/article/10.1007/s13369-022-07538-2">Arabian Journal for Science & Engineering</a></sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/☁️-AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws" /><br/>
+      <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" /><br/>
       <sub>Foundational Certified</sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/🤖-AWS_AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws" /><br/>
+      <img src="https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" /><br/>
       <sub>Foundational Certified</sub>
     </td>
   </tr>
@@ -172,23 +172,42 @@ fun_fact: "I turned a spark of curiosity into a firestorm of innovation 🔥"
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thecheesybit&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=12d640&icon_color=12d640&text_color=c9d1d9&ring_color=12d640" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecheesybit&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=12d640&text_color=c9d1d9" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thecheesybit&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=12d640&icon_color=12d640&text_color=c9d1d9&ring_color=12d640" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecheesybit&layout=compact&hide_border=true&bg_color=0d1117&title_color=12d640&text_color=c9d1d9&langs_count=8" height="180" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thecheesybit&theme=radical&hide_border=true&background=0d1117&stroke=12d640&ring=12d640&fire=ff6b6b&currStreakLabel=12d640&sideLabels=c9d1d9&dates=555555" alt="GitHub Streak" width="600" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thecheesybit&hide_border=true&background=0d1117&stroke=12d640&ring=12d640&fire=ff6b6b&currStreakLabel=12d640&currStreakNum=12d640&sideLabels=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak" width="600" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thecheesybit&bg_color=0d1117&color=12d640&line=12d640&point=ff6b6b&area=true&area_color=12d640&hide_border=true" width="95%" alt="Activity Graph" />
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thecheesybit/thecheesybit/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thecheesybit/thecheesybit/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/thecheesybit/thecheesybit/output/github-snake.svg" />
+  </picture>
+</div>
+
 ---
 
 ## 🌍 Interests
 
-`Software Development` · `Machine Learning` · `Computer Vision` · `Cloud Computing` · `Software Engineering` · `IoT` · `Algorithms` · `UI/UX Design`
+<div align="center">
+
+![](https://img.shields.io/badge/Software_Development-0d1117?style=flat-square&logo=devdotto&logoColor=12d640)
+![](https://img.shields.io/badge/Machine_Learning-0d1117?style=flat-square&logo=brain&logoColor=5578ff)
+![](https://img.shields.io/badge/Computer_Vision-0d1117?style=flat-square&logo=opencv&logoColor=e80368)
+![](https://img.shields.io/badge/Cloud_Computing-0d1117?style=flat-square&logo=amazonaws&logoColor=00b4b4)
+![](https://img.shields.io/badge/Software_Engineering-0d1117?style=flat-square&logo=codeforces&logoColor=28a745)
+![](https://img.shields.io/badge/IoT-0d1117?style=flat-square&logo=arduino&logoColor=ff4747)
+![](https://img.shields.io/badge/Algorithms-0d1117?style=flat-square&logo=leetcode&logoColor=47aeff)
+![](https://img.shields.io/badge/UI%2FUX_Design-0d1117?style=flat-square&logo=figma&logoColor=ffc107)
+
+</div>
 
 ---
 
