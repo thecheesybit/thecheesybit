@@ -96,12 +96,12 @@ M.Tech in AI & Data Science @ **IIT Patna** · CGPA **9.84** · B.Tech CSE (AI &
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thecheesybit&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=12d640&icon_color=12d640&text_color=c9d1d9&ring_color=12d640" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecheesybit&layout=compact&hide_border=true&bg_color=0d1117&title_color=12d640&text_color=c9d1d9&langs_count=8" height="170" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thecheesybit&theme=github_dark" height="170" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thecheesybit&theme=github_dark" height="170" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thecheesybit&hide_border=true&background=0d1117&stroke=12d640&ring=12d640&fire=ff6b6b&currStreakLabel=12d640&currStreakNum=12d640&sideLabels=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak" width="600" />
+  <img src="https://streak-stats.demolab.com/?user=thecheesybit&hide_border=true&background=0d1117&stroke=12d640&ring=12d640&fire=ff6b6b&currStreakLabel=12d640&currStreakNum=12d640&sideLabels=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak" width="600" />
 </div>
 
 <div align="center">
